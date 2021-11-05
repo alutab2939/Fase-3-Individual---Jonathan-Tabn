@@ -1,0 +1,5 @@
+﻿id:Name:Path:Description:Category:Scope
+:UsuariosW10-GG_DepPrensa:OU=DepPrensa_VERA,OU=DepartamentosVERA,DC=vera,DC=upv,DC=es:Grupo global y de los usuarios del DepPrensa:Security:Global
+:UsuariosW10-GG_DepAdministracion:OU=DepAdministracion_VERA,OU=DepartamentosVERA,DC=vera,DC=upv,DC=es:Grupo global y de los usuarios del DepAdministracion:Security:Global
+:UsuariosW10-GG_DepInformatica:OU=DepInformatica_VERA,OU=DepartamentosVERA,DC=vera,DC=upv,DC=es:Grupo global y de los usuarios del DepInformatica:Security:Global
+:UsuariosUD-GG_DepRectorado:OU=DepRectorado_VERA,OU=DepartamentosVERA,DC=vera,DC=upv,DC=es:Grupo global y de los usuarios del DepRectorado:Security:Global

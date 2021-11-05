@@ -1,0 +1,10 @@
+﻿id:Nombre:Descripcion:Path
+:DepartamentosVERA:Unidad Organizativa VERA_UPV:DC=vera,DC=upv,DC=es
+:DepPrensa_VERA:Unidad Organizativa Dep.Prensa:OU=DepartamentosVERA,DC=vera,DC=upv,DC=es
+:EquiposW10_DepPrensa:UO de los equipos del DepPrensa:OU=DepPrensa_VERA,OU=DepartamentosVERA,DC=vera,DC=upv,DC=es
+:DepAdministracion_VERA:Unidad Organizativa Dep.Administracion:OU=DepartamentosVERA,DC=vera,DC=upv,DC=es
+:EquiposW10_DepAdministracion:UO de los equipos del DepAdministracion:OU=DepAdministracion_VERA,OU=DepartamentosVERA,DC=vera,DC=upv,DC=es
+:DepInformatica_VERA:Unidad Organizativa Dep.Informatica:OU=DepartamentosVERA,DC=vera,DC=upv,DC=es
+:EquiposW10_DepInformatica:UO de los equipos del DepInformatica:OU=DepInformatica_VERA,OU=DepartamentosVERA,DC=vera,DC=upv,DC=es:
+:DepRectorado_VERA:Unidad Organizativa Dep.Rectorado:OU=DepartamentosVERA,DC=vera,DC=upv,DC=es
+:EquiposUD_DepRectorado:UO de los equipos del DepRectorado:OU=DepRectorado_VERA,OU=DepartamentosVERA,DC=vera,DC=upv,DC=es
