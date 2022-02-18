@@ -1,4 +1,4 @@
-﻿$ficheroCsvUO=Read-Host "Introduce el fichero csv de UO's:"
+$ficheroCsvUO=Read-Host "Introduce el fichero csv de UO's:"
  $fichero = import-csv -Path $ficheroCsvUO -delimiter :
  foreach($line in $fichero)
 {
